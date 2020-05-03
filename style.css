@@ -1,0 +1,57 @@
+
+
+#top {
+	font-size: 36px;
+}
+
+#middle {
+	font-size: 24px;
+}
+
+#bottom {
+	font-size: 12px;
+}
+
+.name {
+	font-weight: bold;
+}
+
+h1{
+				color: #ed53af;
+				text-align: center;
+				font-family: Comic Sans MS, cursive, sans-serif;
+				font-size: 40px;
+				border: 2px blue;
+	}
+img{
+	height=40%
+}
+
+li{
+	color:green;
+}
+
+/*div{
+	background-color: #b94dc9;
+	width: 400px;
+	height: 100px;
+	margin: 30px;
+	padding: 20px;
+
+}*/
+
+table{
+	color:#34d8eb;
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 100%
+}
+
+th, td{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+th {
+	background-color: grey;
+}
